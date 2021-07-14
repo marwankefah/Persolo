@@ -3,6 +3,9 @@
 
 A TensorFlow YOLO-V4 based Pedestrian Detection Model that amplify the person class bias in the Yolo V4 model for accurate prediction
 
-Weights can be downloaded from here(
- https://drive.google.com/drive/folders/1EFY1wmnBczB76erKBWIbxNAVg1wZV0CL?usp=sharing)
+## Serving Model
+Model and Weights can be downloaded from here
+ https://drive.google.com/drive/folders/1EFY1wmnBczB76erKBWIbxNAVg1wZV0CL?usp=sharing
+ 
+
 
